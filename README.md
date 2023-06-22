@@ -27,3 +27,5 @@ OXO
 1. The board is full of dashes (-) initially. The first player starts with 'X'.
 2. In each turn output the board and the player in turn.
 3. Program asks the player to enter a move. The player will enter two integers; row and column. Both row and column have to be between 1 and 3 inclusively. Otherwise, the program will tell the move is invalid and ask the same player to make the move again. If any user selects an occupied square that is also an invalid move.
+
+### Demo the game by running [this file](https://github.com/advious/Tic-Tac-Toe/blob/main/TicTacToe.java)
