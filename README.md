@@ -9,13 +9,17 @@ Tic-tac-toe is a two-player board game. The board is 3 x 3. The first player put
 Here's a sample tic-tac-toe board:
 
 OXO
+
 -XO
+
 --X
 
 'X' is the first player, and 'O' is the second player. '-' represents an empty square. If player 1 plays "3 2", they win the game since the second column has three 'X's:
 
 OXO
+
 -XO
+
 -XX
 
 
